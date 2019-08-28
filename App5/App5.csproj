@@ -111,6 +111,9 @@
     <PackageReference Include="Microsoft.Xaml.Behaviors.Uwp.Managed">
       <Version>2.0.1</Version>
     </PackageReference>
+    <PackageReference Include="ReactiveUI.Fody">
+      <Version>9.19.2</Version>
+    </PackageReference>
     <PackageReference Include="System.Reactive">
       <Version>4.1.6</Version>
     </PackageReference>
